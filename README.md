@@ -111,10 +111,7 @@ The following data quality checks were performed:
 - Subqueries
 - Common Table Expressions (CTEs)
 - Window Functions
-- Views
-- Stored Procedures
-- Indexing
-- Query Optimization using EXPLAIN
+
 
 ---
 
@@ -201,12 +198,7 @@ Blinkit-Business-Intelligence/
 │   ├── 03_import_data.sql
 │   ├── 04_data_quality_checks.sql
 │   ├── 05_business_analysis.sql
-│   ├── 06_advanced_sql.sql
-│   ├── 07_views.sql
-│   ├── 08_stored_procedures.sql
-│   ├── 09_indexes_optimization.sql
-│   └── 10_SQL_Analysis_Report.pdf
-│
+│  
 ├── powerbi/
 │   └── Blinkit_Dashboard.pbix
 │
